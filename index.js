@@ -2,5 +2,6 @@
 var customerName = 'bob';
 
 function (name) {
-  return
+  let customerName = name.captilize()
+  return customerName
 }
